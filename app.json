@@ -1,0 +1,34 @@
+{
+  "id": "f1ad7d4d-5a0e-42d9-bc31-f0479aae478f",
+  "name": "KICC",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "target": "OnPrem",
+  "suppressWarnings": ["AL0269","AL0523","AL0606","AL0667","AL0432","AL0603","AL0729","AL0161"],
+  "idRanges": [
+    {
+      "from": 50000000,
+      "to": 59999999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
